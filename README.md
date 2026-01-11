@@ -33,5 +33,6 @@ The goal is to predict the sale price of bulldozers using historical auction dat
 
 ## Status
 - Kaggle competition is closed, so submissions are not accepted
-- Model was evaluated locally
+- Model was evaluated locally and ranked to be on 1st
+
 
